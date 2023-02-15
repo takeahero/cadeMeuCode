@@ -1,19 +1,30 @@
-    tottaly begginer guy, looking for learning front-end/web developer. 
-      for now, i'm studding html, css and something of js on e-learning platform calling alura. 
-
-      in the future, i'm wish to build my own projects for contribute the development to the web. 
-        it´s gonna be a long way, but i'm here, to learn, learn and learn. 
-        if i don't do anything yet for any project, it's beacause i´m feel not ready.
-
-          my roadmap for now is
-            1- learning the basic to build some websites.
-            2- help some friends coming to the web with your business, building basics websites for them.
-            3- learning english 
-            4- learning more js to evolutions of my projects. 
-            5- leave web development to be a programmer
-
-          now i am in the first step...
-          when i'm gonna to between 1st and 2nd step i'm up the projects to the github repository.
-
-      thank you to visit my profile
-    and sorry, because it's have no repository yet
+~~~html
+    <div id="skills" class="content__container bar__content animate-bottom skills-wrapper">
+        <ul class="skills__list">
+            <li class="skills__item">
+                <img src="img/html5.svg" alt="html5 icon" class="skills__icons">
+                <div class="skills__bar">
+                    <div class="skills html">35%</div>
+                </div>
+            </li>
+            <li class="skills__item">
+                <img src="img/css.svg" alt="css icon" class="skills__icons">
+                <div class="skills__bar">
+                    <div class="skills css">26%</div>
+                </div>
+            </li>
+            <li class="skills__item">
+                <img src="img/js.svg" alt="javaScript icon" class="skills__icons">
+                <div class="skills__bar">
+                    <div class="skills javaScript">8%</div>
+                </div>
+            </li>
+            <li class="skills__item">
+                <img src="img/ps.svg" alt="photoshop icon" class="skills__icons">
+                <div class="skills__bar">
+                    <div class="skills photoshop">20%</div>
+                </div>
+            </li>
+        </ul>
+    </div>
+~~~
